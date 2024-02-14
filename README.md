@@ -24,6 +24,7 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/giuliano108/SeBackupPrivilege
 - https://github.com/tandasat/ExploitCapcom
 - https://github.com/TarlogicSecurity/EoPLoadDriver/
+- https://github.com/GhostPack/SharpUp/
 - 
 
 ## Link to useful tools.
