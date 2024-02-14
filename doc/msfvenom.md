@@ -1,7 +1,7 @@
 # MSFVenom
 
 ## Usage
-- msfvenom -p <PAYLOAD> -e <ENCODER> -f <FORMAT> -i <ENCODE COUNT> LHOST=<IP>
+- msfvenom -p \<PAYLOAD\> -e \<ENCODER\> -f \<FORMAT\> -i \<ENCODE COUNT\> LHOST=\<IP\>
 
 
 ## Commands
