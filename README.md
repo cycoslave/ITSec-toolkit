@@ -17,6 +17,8 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/initstring/linkedin2username
 - https://github.com/lgandx/Responder
 - https://github.com/hfiref0x/UACME
+- https://github.com/GossiTheDog/HiveNightmare
+- https://github.com/cube0x0/CVE-2021-1675
 - 
 
 ## Repos of tools that needs to be compiled
