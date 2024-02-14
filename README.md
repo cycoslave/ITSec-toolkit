@@ -19,6 +19,11 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/hfiref0x/UACME
 - https://github.com/GossiTheDog/HiveNightmare
 - https://github.com/cube0x0/CVE-2021-1675
+- https://github.com/xct/diaghub
+- https://github.com/itm4n/UsoDllLoader
+- https://github.com/RedCursorSecurityConsulting/CVE-2020-0668
+- https://github.com/samratashok/nishang
+- https://github.com/stephenfewer/ReflectiveDLLInjection
 - 
 
 ## Repos of tools that needs to be compiled
