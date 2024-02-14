@@ -31,7 +31,8 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/DanMcInerney/net-creds
 - https://github.com/dievus/lnkbomb
 - https://github.com/S3cur3Th1sSh1t/PowerSharpPack/
-- 
+- https://github.com/bitsadmin/wesng
+- https://github.com/AonCyberLabs/Windows-Exploit-Suggester
 
 ## Repos of tools that needs to be compiled
 - https://github.com/FSecureLABS/SharpGPOAbuse
