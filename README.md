@@ -9,6 +9,7 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/PowerShellMafia/PowerSploit
 - https://github.com/ropnop/kerbrute
 - https://github.com/dafthack/DomainPasswordSpray
+- https://github.com/ohpe/juicy-potato
 - https://github.com/initstring/linkedin2username
 - 
 
