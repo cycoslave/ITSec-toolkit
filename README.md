@@ -16,5 +16,9 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/initstring/linkedin2username
 - 
 
+## Repos of tools that needs to be compiled
+- https://github.com/FSecureLABS/SharpGPOAbuse
+- 
+
 ## Link to useful tools.
 - https://nmap.org/dist/nmap-7.92-win32.zip
