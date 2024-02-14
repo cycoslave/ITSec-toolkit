@@ -22,6 +22,8 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 ## Repos of tools that needs to be compiled
 - https://github.com/FSecureLABS/SharpGPOAbuse
 - https://github.com/giuliano108/SeBackupPrivilege
+- https://github.com/tandasat/ExploitCapcom
+- https://github.com/TarlogicSecurity/EoPLoadDriver/
 - 
 
 ## Link to useful tools.
