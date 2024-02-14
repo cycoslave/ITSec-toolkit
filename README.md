@@ -28,6 +28,7 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/swisskyrepo/PayloadsAllTheThings
 - https://github.com/RamblingCookieMonster/PSSQLite
 - https://github.com/AlessandroZ/LaZagne
+- https://github.com/DanMcInerney/net-creds
 - 
 
 ## Repos of tools that needs to be compiled
