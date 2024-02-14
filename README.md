@@ -52,3 +52,4 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://nmap.org/dist/nmap-7.92-win32.zip
 - https://gchq.github.io/CyberChef/
 - https://restic.net/
+- https://www.pingcastle.com/
