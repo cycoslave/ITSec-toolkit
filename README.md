@@ -29,6 +29,8 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/RamblingCookieMonster/PSSQLite
 - https://github.com/AlessandroZ/LaZagne
 - https://github.com/DanMcInerney/net-creds
+- https://github.com/dievus/lnkbomb
+- https://github.com/S3cur3Th1sSh1t/PowerSharpPack/
 - 
 
 ## Repos of tools that needs to be compiled
@@ -37,6 +39,7 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/tandasat/ExploitCapcom
 - https://github.com/TarlogicSecurity/EoPLoadDriver/
 - https://github.com/GhostPack/SharpUp/
+- https://github.com/djhohnstein/SharpChromium
 - 
 
 ## Link to useful tools.
