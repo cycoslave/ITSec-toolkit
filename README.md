@@ -24,6 +24,9 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/RedCursorSecurityConsulting/CVE-2020-0668
 - https://github.com/samratashok/nishang
 - https://github.com/stephenfewer/ReflectiveDLLInjection
+- https://github.com/SnaffCon/Snaffler
+- https://github.com/swisskyrepo/PayloadsAllTheThings
+- https://github.com/RamblingCookieMonster/PSSQLite
 - 
 
 ## Repos of tools that needs to be compiled
@@ -35,4 +38,7 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - 
 
 ## Link to useful tools.
+- https://www.revshells.com/
 - https://nmap.org/dist/nmap-7.92-win32.zip
+- https://gchq.github.io/CyberChef/
+- 
