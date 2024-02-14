@@ -12,6 +12,7 @@ This is a list of precompiled tools needed for penetration testing. This is mean
 - https://github.com/ohpe/juicy-potato
 - https://github.com/itm4n/PrintSpoofer
 - https://github.com/antonioCoco/RoguePotato
+- https://github.com/daem0nc0re/PrivFu
 - https://github.com/initstring/linkedin2username
 - 
 
